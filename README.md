@@ -1,4 +1,9 @@
 # list-of-wp-plugins
+
+> Browse the searchable directory: https://eucutie.github.io/wp-plugins-list/
+
+This repository is the source list for the website. Plugin details and pricing are community-maintained and should be checked with the plugin publisher before installation.
+
 This repo contains a list of useful WordPress plugins from diffrent categories (and their description & price)
 
 
