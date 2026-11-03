@@ -1,0 +1,1166 @@
+[
+  {
+    "name": "Yoast SEO",
+    "description": "The most popular SEO plugin with content analysis, XML sitemaps, and meta tag management",
+    "price": "Free / Premium",
+    "category": "SEO"
+  },
+  {
+    "name": "Rank Math SEO",
+    "description": "Feature-rich SEO suite with AI-powered suggestions and advanced schema markup",
+    "price": "Free / Pro",
+    "category": "SEO"
+  },
+  {
+    "name": "All in One SEO Pack",
+    "description": "Comprehensive SEO toolkit for optimizing WordPress sites",
+    "price": "Free / Pro",
+    "category": "SEO"
+  },
+  {
+    "name": "SEOPress",
+    "description": "Lightweight SEO plugin with no ads, featuring content analysis and redirects",
+    "price": "Free / Pro",
+    "category": "SEO"
+  },
+  {
+    "name": "The SEO Framework",
+    "description": "Fast, automated SEO solution with minimal configuration",
+    "price": "Free / Premium",
+    "category": "SEO"
+  },
+  {
+    "name": "Squirrly SEO",
+    "description": "AI-driven SEO consultant with real-time optimization advice",
+    "price": "Free / Pro",
+    "category": "SEO"
+  },
+  {
+    "name": "Broken Link Checker",
+    "description": "Monitors and detects broken links on your site",
+    "price": "Free",
+    "category": "SEO"
+  },
+  {
+    "name": "Redirection",
+    "description": "Manages 301 redirects and tracks 404 errors",
+    "price": "Free",
+    "category": "SEO"
+  },
+  {
+    "name": "Schema Pro",
+    "description": "Advanced schema markup implementation for rich snippets",
+    "price": "Premium",
+    "category": "SEO"
+  },
+  {
+    "name": "Wordfence Security",
+    "description": "Firewall, malware scanner, and login security with threat defense",
+    "price": "Free / Premium",
+    "category": "Security"
+  },
+  {
+    "name": "Sucuri Security",
+    "description": "Website security monitoring, malware removal, and firewall",
+    "price": "Free / Paid Plans",
+    "category": "Security"
+  },
+  {
+    "name": "iThemes Security",
+    "description": "30+ ways to secure your WordPress site",
+    "price": "Free / Pro",
+    "category": "Security"
+  },
+  {
+    "name": "All In One WP Security & Firewall",
+    "description": "Comprehensive security with user account, login, and database protection",
+    "price": "Free",
+    "category": "Security"
+  },
+  {
+    "name": "Solid Security (formerly iThemes)",
+    "description": "Advanced security hardening and brute force protection",
+    "price": "Free / Pro",
+    "category": "Security"
+  },
+  {
+    "name": "MalCare Security",
+    "description": "Malware detection and one-click removal with firewall",
+    "price": "Free / Premium",
+    "category": "Security"
+  },
+  {
+    "name": "Shield Security",
+    "description": "Simple yet powerful security with two-factor authentication",
+    "price": "Free / Pro",
+    "category": "Security"
+  },
+  {
+    "name": "Jetpack Protect",
+    "description": "Brute force attack protection and spam filtering",
+    "price": "Free / Paid",
+    "category": "Security"
+  },
+  {
+    "name": "Really Simple SSL",
+    "description": "Easily migrate your site to SSL/HTTPS",
+    "price": "Free / Pro",
+    "category": "Security"
+  },
+  {
+    "name": "Two Factor",
+    "description": "Two-factor authentication for WordPress",
+    "price": "Free",
+    "category": "Security"
+  },
+  {
+    "name": "Limit Login Attempts Reloaded",
+    "description": "Limits login attempts to prevent brute force attacks",
+    "price": "Free / Premium",
+    "category": "Security"
+  },
+  {
+    "name": "WP Rocket",
+    "description": "Premium caching plugin with page caching, cache preloading, and lazy loading",
+    "price": "Premium",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "W3 Total Cache",
+    "description": "Comprehensive caching with CDN integration and minification",
+    "price": "Free / Pro",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "WP Super Cache",
+    "description": "Static HTML file generation from dynamic WordPress blogs",
+    "price": "Free",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "LiteSpeed Cache",
+    "description": "All-in-one acceleration with server-level cache and image optimization",
+    "price": "Free",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "WP Fastest Cache",
+    "description": "Simple and fast caching with minification and CDN support",
+    "price": "Free / Premium",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "Autoptimize",
+    "description": "Aggregates, minifies, and caches scripts and styles",
+    "price": "Free / Premium",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "Smush",
+    "description": "Image compression and optimization with lazy loading",
+    "price": "Free / Pro",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "ShortPixel Image Optimizer",
+    "description": "Advanced image compression with WebP/AVIF conversion",
+    "price": "Free / Paid",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "Imagify",
+    "description": "Image optimization by WP Rocket team with three compression levels",
+    "price": "Free / Paid",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "Perfmatters",
+    "description": "Lightweight performance plugin to disable unnecessary features",
+    "price": "Premium",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "Asset CleanUp",
+    "description": "Removes unused CSS/JavaScript to speed up pages",
+    "price": "Free / Pro",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "FlyingPress",
+    "description": "All-in-one speed optimization plugin",
+    "price": "Premium",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "Redis Object Cache",
+    "description": "Persistent object cache backend powered by Redis",
+    "price": "Free",
+    "category": "Performance & Caching"
+  },
+  {
+    "name": "Elementor",
+    "description": "Drag-and-drop page builder with 90+ widgets and theme builder",
+    "price": "Free / Pro",
+    "category": "Page Builders"
+  },
+  {
+    "name": "WPBakery Page Builder",
+    "description": "Frontend and backend visual composer",
+    "price": "Premium",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Divi Builder",
+    "description": "Visual drag-and-drop builder by Elegant Themes",
+    "price": "Premium (Membership)",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Beaver Builder",
+    "description": "Flexible drag-and-drop page builder",
+    "price": "Free / Premium",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Bricks",
+    "description": "High-performance visual site builder",
+    "price": "Premium",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Breakdance",
+    "description": "Modern visual website builder for WordPress",
+    "price": "Premium",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Oxygen Builder",
+    "description": "Visual site builder for developers and designers",
+    "price": "Premium",
+    "category": "Page Builders"
+  },
+  {
+    "name": "SeedProd",
+    "description": "Landing page builder with pre-built templates",
+    "price": "Free / Pro",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Spectra",
+    "description": "Page builder blocks for Gutenberg by Brainstorm Force",
+    "price": "Free / Pro",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Stackable",
+    "description": "Gutenberg blocks library with design library",
+    "price": "Free / Premium",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Kadence Blocks",
+    "description": "Advanced Gutenberg blocks for better page building",
+    "price": "Free / Pro",
+    "category": "Page Builders"
+  },
+  {
+    "name": "GenerateBlocks",
+    "description": "Lightweight blocks for GeneratePress theme",
+    "price": "Free / Premium",
+    "category": "Page Builders"
+  },
+  {
+    "name": "Contact Form 7",
+    "description": "Simple and flexible contact form management",
+    "price": "Free",
+    "category": "Forms"
+  },
+  {
+    "name": "WPForms",
+    "description": "Drag-and-drop form builder with pre-built templates",
+    "price": "Free / Pro",
+    "category": "Forms"
+  },
+  {
+    "name": "Gravity Forms",
+    "description": "Advanced form builder with conditional logic",
+    "price": "Premium",
+    "category": "Forms"
+  },
+  {
+    "name": "Formidable Forms",
+    "description": "Form builder with data management and views",
+    "price": "Free / Pro",
+    "category": "Forms"
+  },
+  {
+    "name": "Ninja Forms",
+    "description": "Flexible form builder with add-ons ecosystem",
+    "price": "Free / Paid Add-ons",
+    "category": "Forms"
+  },
+  {
+    "name": "Fluent Forms",
+    "description": "Fast form builder with conversational forms",
+    "price": "Free / Pro",
+    "category": "Forms"
+  },
+  {
+    "name": "Forminator",
+    "description": "Form builder with polls, quizzes, and payments",
+    "price": "Free / Pro",
+    "category": "Forms"
+  },
+  {
+    "name": "HappyForms",
+    "description": "Free drag-and-drop contact form builder",
+    "price": "Free",
+    "category": "Forms"
+  },
+  {
+    "name": "weForms",
+    "description": "Fast and easy form builder for beginners",
+    "price": "Free / Pro",
+    "category": "Forms"
+  },
+  {
+    "name": "Bit Form",
+    "description": "Advanced form builder with conditional logic",
+    "price": "Free / Pro",
+    "category": "Forms"
+  },
+  {
+    "name": "WS Form",
+    "description": "Professional form building with framework approach",
+    "price": "Free / Pro",
+    "category": "Forms"
+  },
+  {
+    "name": "WooCommerce",
+    "description": "The most popular e-commerce platform for WordPress",
+    "price": "Free / Paid Extensions",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "Easy Digital Downloads",
+    "description": "Complete e-commerce solution for digital products",
+    "price": "Free / Pro",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "WP Simple Pay",
+    "description": "Stripe payment forms without full e-commerce setup",
+    "price": "Free / Pro",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "MemberPress",
+    "description": "Membership plugin with payment integration",
+    "price": "Premium",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "LearnDash",
+    "description": "LMS plugin for creating and selling courses",
+    "price": "Premium",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "LifterLMS",
+    "description": "Complete learning management system",
+    "price": "Free / Add-ons",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "SureCart",
+    "description": "Modern e-commerce platform with headless architecture",
+    "price": "Free / Pro",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "BigCommerce for WordPress",
+    "description": "Headless e-commerce with BigCommerce backend",
+    "price": "Free (BigCommerce account)",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "Shopify Buy Button",
+    "description": "Embed Shopify products on WordPress",
+    "price": "Free (Shopify account)",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "CartFlows",
+    "description": "Sales funnel builder for WooCommerce",
+    "price": "Free / Pro",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "CheckoutWC",
+    "description": "Optimized checkout pages for WooCommerce",
+    "price": "Premium",
+    "category": "E-Commerce"
+  },
+  {
+    "name": "UpdraftPlus",
+    "description": "Complete backup and restoration solution",
+    "price": "Free / Premium",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "BackupBuddy",
+    "description": "Complete backup, restore, and migration plugin",
+    "price": "Premium",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "Duplicator",
+    "description": "Site migration and backup with package creation",
+    "price": "Free / Pro",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "All-in-One WP Migration",
+    "description": "Export and import WordPress sites",
+    "price": "Free / Unlimited Extension",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "WPvivid Backup",
+    "description": "Backup, restore, and migration with staging",
+    "price": "Free / Pro",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "BlogVault",
+    "description": "Real-time backup and staging with migration",
+    "price": "Premium",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "Jetpack Backup",
+    "description": "Automated real-time backups and restores",
+    "price": "Paid",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "XCloner",
+    "description": "Backup and restore with custom database options",
+    "price": "Free",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "Migrate Guru",
+    "description": "Free unlimited WordPress migration",
+    "price": "Free",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "WP Staging",
+    "description": "Create staging sites for testing",
+    "price": "Free / Pro",
+    "category": "Backup & Migration"
+  },
+  {
+    "name": "Google Site Kit",
+    "description": "Official Google plugin integrating Search Console, Analytics, and AdSense",
+    "price": "Free",
+    "category": "Analytics"
+  },
+  {
+    "name": "MonsterInsights",
+    "description": "Google Analytics dashboard for WordPress",
+    "price": "Free / Pro",
+    "category": "Analytics"
+  },
+  {
+    "name": "ExactMetrics",
+    "description": "Google Analytics plugin with enhanced e-commerce tracking",
+    "price": "Free / Pro",
+    "category": "Analytics"
+  },
+  {
+    "name": "Independent Analytics",
+    "description": "Privacy-friendly analytics without external services",
+    "price": "Free / Pro",
+    "category": "Analytics"
+  },
+  {
+    "name": "Plausible Analytics",
+    "description": "Lightweight, privacy-focused analytics integration",
+    "price": "Free (Plausible account)",
+    "category": "Analytics"
+  },
+  {
+    "name": "Matomo Analytics",
+    "description": "Self-hosted analytics platform integration",
+    "price": "Free / Paid Plans",
+    "category": "Analytics"
+  },
+  {
+    "name": "WP Statistics",
+    "description": "Self-hosted analytics with no external dependencies",
+    "price": "Free / Premium",
+    "category": "Analytics"
+  },
+  {
+    "name": "Crazy Egg",
+    "description": "Heatmaps and visitor recordings",
+    "price": "Free (Account required)",
+    "category": "Analytics"
+  },
+  {
+    "name": "Hotjar",
+    "description": "Heatmaps, recordings, and feedback tools",
+    "price": "Free (Account required)",
+    "category": "Analytics"
+  },
+  {
+    "name": "Smash Balloon Social Photo Feed",
+    "description": "Display Instagram feeds on your site",
+    "price": "Free / Pro",
+    "category": "Social Media"
+  },
+  {
+    "name": "Revive Old Posts",
+    "description": "Automatically share posts to social media",
+    "price": "Free / Pro",
+    "category": "Social Media"
+  },
+  {
+    "name": "Social Warfare",
+    "description": "Social sharing buttons with share counts",
+    "price": "Free / Pro",
+    "category": "Social Media"
+  },
+  {
+    "name": "Novashare",
+    "description": "Lightweight social sharing plugin",
+    "price": "Premium",
+    "category": "Social Media"
+  },
+  {
+    "name": "Shared Counts",
+    "description": "Fast social sharing buttons without external scripts",
+    "price": "Free",
+    "category": "Social Media"
+  },
+  {
+    "name": "AddToAny Share Buttons",
+    "description": "Universal sharing buttons for all platforms",
+    "price": "Free",
+    "category": "Social Media"
+  },
+  {
+    "name": "Sassy Social Share",
+    "description": "Lightweight social sharing plugin",
+    "price": "Free",
+    "category": "Social Media"
+  },
+  {
+    "name": "Feed Them Social",
+    "description": "Display feeds from Facebook, Instagram, Twitter, YouTube",
+    "price": "Free / Premium",
+    "category": "Social Media"
+  },
+  {
+    "name": "Spotlight Social Media Feeds",
+    "description": "Curate and display social media feeds",
+    "price": "Free / Pro",
+    "category": "Social Media"
+  },
+  {
+    "name": "Juicer",
+    "description": "Social media feed aggregator",
+    "price": "Free / Paid Plans",
+    "category": "Social Media"
+  },
+  {
+    "name": "Advanced Custom Fields",
+    "description": "Create custom fields for any content type",
+    "price": "Free / Pro",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Custom Post Type UI",
+    "description": "Admin interface for creating custom post types",
+    "price": "Free",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Pods",
+    "description": "Custom content types and fields framework",
+    "price": "Free / Paid",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Toolset",
+    "description": "Suite for building custom sites without coding",
+    "price": "Premium",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Custom Field Suite",
+    "description": "Lightweight custom fields management",
+    "price": "Free",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Meta Box",
+    "description": "Framework for creating custom meta boxes",
+    "price": "Free / Extensions",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "PublishPress",
+    "description": "Editorial workflow and content calendar",
+    "price": "Free / Pro",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Edit Flow",
+    "description": "Editorial calendar and workflow management",
+    "price": "Free",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Relevanssi",
+    "description": "Better search with fuzzy matching",
+    "price": "Free / Premium",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "SearchWP",
+    "description": "Advanced search engine for WordPress",
+    "price": "Premium",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "FacetWP",
+    "description": "Faceted search and filtering",
+    "price": "Premium",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Content Control",
+    "description": "Restrict content access by user roles",
+    "price": "Free / Pro",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Shortcode Ultimate",
+    "description": "Comprehensive shortcode library",
+    "price": "Free / Pro",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "Code Snippets",
+    "description": "Manage PHP snippets without functions.php",
+    "price": "Free / Pro",
+    "category": "Content & Editing"
+  },
+  {
+    "name": "MemberPress",
+    "description": "Full-featured membership plugin",
+    "price": "Premium",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "Restrict Content Pro",
+    "description": "Complete membership and content restriction",
+    "price": "Premium",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "Paid Memberships Pro",
+    "description": "Flexible membership with payment gateways",
+    "price": "Free / Paid",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "Ultimate Member",
+    "description": "User profiles, registration, and community",
+    "price": "Free / Extensions",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "Profile Builder",
+    "description": "Front-end user registration and profiles",
+    "price": "Free / Pro",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "User Role Editor",
+    "description": "Modify user roles and capabilities",
+    "price": "Free / Pro",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "Members",
+    "description": "User and role management by MemberPress team",
+    "price": "Free",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "Simple Membership",
+    "description": "Lightweight membership plugin",
+    "price": "Free",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "WP-Members",
+    "description": "Free membership plugin with content restriction",
+    "price": "Free / Premium",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "WishList Member",
+    "description": "Powerful membership site platform",
+    "price": "Premium",
+    "category": "Membership & User Management"
+  },
+  {
+    "name": "WPML",
+    "description": "Complete multilingual solution with professional translation",
+    "price": "Premium",
+    "category": "Multilingual"
+  },
+  {
+    "name": "Polylang",
+    "description": "Create a bilingual or multilingual site",
+    "price": "Free / Pro",
+    "category": "Multilingual"
+  },
+  {
+    "name": "TranslatePress",
+    "description": "Visual translation interface with front-end editing",
+    "price": "Free / Pro",
+    "category": "Multilingual"
+  },
+  {
+    "name": "Weglot",
+    "description": "Automatic translation with machine and human options",
+    "price": "Free / Paid Plans",
+    "category": "Multilingual"
+  },
+  {
+    "name": "MultilingualPress",
+    "description": "Multilingual sites on multisite network",
+    "price": "Free / Pro",
+    "category": "Multilingual"
+  },
+  {
+    "name": "GTranslate",
+    "description": "Google Translate integration with SEO features",
+    "price": "Free / Paid",
+    "category": "Multilingual"
+  },
+  {
+    "name": "Loco Translate",
+    "description": "Translate themes and plugins in-browser",
+    "price": "Free",
+    "category": "Multilingual"
+  },
+  {
+    "name": "Envira Gallery",
+    "description": "Responsive photo galleries with drag-and-drop builder",
+    "price": "Free / Pro",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "NextGEN Gallery",
+    "description": "Powerful gallery management system",
+    "price": "Free / Pro",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "FooGallery",
+    "description": "Responsive image galleries with templates",
+    "price": "Free / Pro",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "Modula Gallery",
+    "description": "User-friendly gallery plugin with custom grids",
+    "price": "Free / Pro",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "Photo Gallery by Supsystic",
+    "description": "Image galleries with albums and views",
+    "price": "Free / Pro",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "WP Featherlight",
+    "description": "Simple jQuery lightbox for images",
+    "price": "Free",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "Easy FancyBox",
+    "description": "Flexible lightbox solution for various media",
+    "price": "Free",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "PDF Embedder",
+    "description": "Embed PDFs directly in WordPress",
+    "price": "Free / Premium",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "FileBird",
+    "description": "Media library folders for organization",
+    "price": "Free / Pro",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "Real Media Library",
+    "description": "Media categorization and folder management",
+    "price": "Free / Pro",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "HappyFiles",
+    "description": "Media library folders and file manager",
+    "price": "Free / Pro",
+    "category": "Media & Gallery"
+  },
+  {
+    "name": "Mailchimp for WordPress",
+    "description": "Mailchimp integration with signup forms",
+    "price": "Free / Premium",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "FluentCRM",
+    "description": "Self-hosted email marketing automation",
+    "price": "Free / Pro",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "MailPoet",
+    "description": "Email marketing and newsletters in WordPress",
+    "price": "Free / Premium",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "Newsletter",
+    "description": "Complete newsletter system with drag-and-drop",
+    "price": "Free / Add-ons",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "Sendinblue",
+    "description": "Marketing automation and transactional emails",
+    "price": "Free (Account)",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "ConvertKit",
+    "description": "Email marketing for creators",
+    "price": "Free (Account)",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "HubSpot",
+    "description": "CRM, marketing, and sales platform",
+    "price": "Free / Paid",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "OptinMonster",
+    "description": "Lead generation and conversion optimization",
+    "price": "Premium",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "Bloom",
+    "description": "Email opt-in and lead generation plugin",
+    "price": "Premium (Elegant Themes)",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "Thrive Leads",
+    "description": "List building and conversion plugin",
+    "price": "Premium",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "Popup Maker",
+    "description": "Versatile popup builder with targeting",
+    "price": "Free / Premium",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "Hustle",
+    "description": "Email opt-in forms and social sharing",
+    "price": "Free / Pro",
+    "category": "Email & Marketing"
+  },
+  {
+    "name": "Admin Menu Editor",
+    "description": "Customize admin menu and user permissions",
+    "price": "Free / Pro",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "User Switching",
+    "description": "Switch between user accounts quickly",
+    "price": "Free",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "WP Activity Log",
+    "description": "Comprehensive activity logging",
+    "price": "Free / Premium",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Simple History",
+    "description": "Track user activity and changes",
+    "price": "Free",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Query Monitor",
+    "description": "Debugging and performance monitoring",
+    "price": "Free",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Debug Bar",
+    "description": "Add a debug menu to the admin bar",
+    "price": "Free",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Health Check & Troubleshooting",
+    "description": "WordPress health and troubleshooting",
+    "price": "Free",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Disable Comments",
+    "description": "Disable comments globally or by type",
+    "price": "Free",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Enable Media Replace",
+    "description": "Replace media files while keeping URLs",
+    "price": "Free / Pro",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Regenerate Thumbnails",
+    "description": "Regenerate thumbnail sizes for images",
+    "price": "Free",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Better Search Replace",
+    "description": "Database search and replace with serialization",
+    "price": "Free / Pro",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "WP-CLI",
+    "description": "Command-line interface for WordPress",
+    "price": "Free",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Admin Columns",
+    "description": "Customize admin list tables",
+    "price": "Free / Pro",
+    "category": "Admin Tools"
+  },
+  {
+    "name": "Query Monitor",
+    "description": "Database query debugging and profiling",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "Debug Bar",
+    "description": "WordPress debugging and profiling",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "Log Deprecated Notices",
+    "description": "Log usage of deprecated functions",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "Theme Check",
+    "description": "Test themes for WordPress standards",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "Plugin Inspector",
+    "description": "Check plugins for deprecated functions",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "WP Crontrol",
+    "description": "View and control WP-Cron events",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "Transients Manager",
+    "description": "Manage transients in WordPress",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "Post Meta Inspector",
+    "description": "View post metadata in admin",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "Rewrite Rules Inspector",
+    "description": "View and analyze rewrite rules",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "REST API Console",
+    "description": "Test REST API endpoints",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "GitHub Updater",
+    "description": "Update plugins and themes from GitHub",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "VersionPress",
+    "description": "Git-based version control for WordPress",
+    "price": "Free",
+    "category": "Development & Debugging"
+  },
+  {
+    "name": "Yoast Duplicate Post",
+    "description": "Clone posts and pages",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "Duplicate Page",
+    "description": "Duplicate pages, posts, and custom posts",
+    "price": "Free / Pro",
+    "category": "Utilities"
+  },
+  {
+    "name": "Post Types Order",
+    "description": "Drag-and-drop reorder for posts",
+    "price": "Free / Pro",
+    "category": "Utilities"
+  },
+  {
+    "name": "Intuitive Custom Post Order",
+    "description": "Custom ordering for posts and pages",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "Simple Page Ordering",
+    "description": "Drag-and-drop page ordering",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "WP Hide & Security Enhancer",
+    "description": "Hide WordPress fingerprints",
+    "price": "Free / Pro",
+    "category": "Utilities"
+  },
+  {
+    "name": "Hide My WP",
+    "description": "Security through obscurity plugin",
+    "price": "Premium",
+    "category": "Utilities"
+  },
+  {
+    "name": "Coming Soon Page & Maintenance Mode",
+    "description": "Maintenance and coming soon pages",
+    "price": "Free / Pro",
+    "category": "Utilities"
+  },
+  {
+    "name": "Under Construction",
+    "description": "Simple maintenance mode plugin",
+    "price": "Free / Pro",
+    "category": "Utilities"
+  },
+  {
+    "name": "301 Redirects",
+    "description": "Manage 301 redirects easily",
+    "price": "Free / Pro",
+    "category": "Utilities"
+  },
+  {
+    "name": "Safe Redirect Manager",
+    "description": "HTTP redirect manager",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "Simple 301 Redirects",
+    "description": "Bulk 301 redirect management",
+    "price": "Free / Pro",
+    "category": "Utilities"
+  },
+  {
+    "name": "SVG Support",
+    "description": "Enable SVG uploads in WordPress",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "Classic Editor",
+    "description": "Restore the classic WordPress editor",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "Gutenberg",
+    "description": "The block editor (built-in but listed separately)",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "Disable Gutenberg",
+    "description": "Disable block editor and use classic",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "Code Embed",
+    "description": "Embed code in posts with custom fields",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "Insert Headers and Footers",
+    "description": "Add code to header and footer",
+    "price": "Free",
+    "category": "Utilities"
+  },
+  {
+    "name": "WPCode (formerly Insert Headers)",
+    "description": "Code snippets management",
+    "price": "Free / Pro",
+    "category": "Utilities"
+  }
+]
